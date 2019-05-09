@@ -1,0 +1,44 @@
+solid ascii
+ facet normal -0.739164 -0.602854 0.300338
+  outer loop
+   vertex 69.0896 200.108 -627.114
+   vertex 66.2773 203.911 -626.4
+   vertex 67.0817 199.649 -632.975
+  endloop
+ endfacet
+ facet normal -0.775218 -0.568245 0.275926
+  outer loop
+   vertex 58.8614 197.578 -621.178
+   vertex 60.6277 198.123 -615.095
+   vertex 57.8541 201.804 -615.307
+  endloop
+ endfacet
+ facet normal -0.768169 -0.617366 0.169631
+  outer loop
+   vertex 60.8371 215.156 -612.443
+   vertex 58.43 215.628 -621.627
+   vertex 63.8116 209.946 -617.936
+  endloop
+ endfacet
+ facet normal -0.706369 -0.644106 0.293548
+  outer loop
+   vertex 47.3688 232.165 -614.311
+   vertex 55.0789 222.797 -616.313
+   vertex 50.5023 232.148 -606.808
+  endloop
+ endfacet
+ facet normal -0.772016 -0.574199 0.272556
+  outer loop
+   vertex 44.7976 240.941 -602.118
+   vertex 42.8939 240.25 -608.967
+   vertex 46.3938 236.527 -606.897
+  endloop
+ endfacet
+ facet normal -0.711394 -0.547636 0.440469
+  outer loop
+   vertex 46.7798 226.95 -598.261
+   vertex 45.7768 230.185 -595.859
+   vertex 43.3633 228.263 -602.145
+  endloop
+ endfacet
+endsolid
