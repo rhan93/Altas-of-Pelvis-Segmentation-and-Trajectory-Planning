@@ -6,7 +6,7 @@ The atlas is freely available for academic or educational use.
 For research only.
 
 The atlas was developed at I-STAR Lab at Johns Hopkins University.
-Contact Jeff Siewerdsen (jeff.siewerdsen@jhu.edu ) with questions.
+Contact Jeff Siewerdsen (jeff.siewerdsen@jhu.edu ) with questions. This atlas can also be downloaded from https://istar.jhu.edu/downloads/
 
 The atlas was first published in the following journal publication.
 Please cite the following:
